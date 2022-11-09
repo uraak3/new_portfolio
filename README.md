@@ -7,8 +7,8 @@
   
   
 file:///*[@id=%22__next%22]/form/div/div[2]/button
-//*[text()="SIGN IN"]
-//child::div/button
+#  //*[text()="SIGN IN"]
+#  //child::div/button
 
 
 //*[@id="__next"]/form/div/div[1]/h5
