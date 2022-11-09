@@ -7,45 +7,58 @@
   
   
 file:///*[@id=%22__next%22]/form/div/div[2]/button
+  
+  
 //*[text()="SIGN IN"]
-//child::div/button
 
   
-  
-  
-  
-  
+  //child::div/button
   
   
 
-//*[@id="__next"]/form/div/div[1]/h5
-//*[text()="Scouts Panel"]
-//child::div/h5
+  
+  //*[@id="__next"]/form/div/div[1]/h5
 
   
-  
-  
-  
-  
+  //*[text()="Scouts Panel"]
 
+  
+  //child::div/h5
+
+  
 //*[@id="__next"]/form/div/div[1]/a
-//*[text()="Remind password"]
-//child::div/a
+
+  
+  //*[text()="Remind password"]
+
+  
+  //child::div/a
 
 
 //*[@id="login"]
-//*[text()="Login"]
-//child::div/login
 
   
-//*[@id="password"]
-//*[text()="Password"]
-//child::div/password
+  //*[text()="Login"]
+
+  
+  //child::div/login
+
+  
+
+  
+  //*[@id="password"]
+
+  //*[text()="Password"]
+
+  //child::div/password
 
 
-//*[@id="__next"]/form/div/div[2]/div/div
-//*[text()="English"]
-//child::div/div/div
+
+  //*[@id="__next"]/form/div/div[2]/div/div
+
+  //*[text()="English"]
+
+  //child::div/div/div
 
 
 //*[@id="__next"]/form/div/div[1]
